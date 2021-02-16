@@ -1,0 +1,18 @@
+{
+	"MainWorld": 
+	[
+		{ "ID": "Alesea", "Distance": 0, "R": 1.0 },
+		{ "ID": "Chiedwell", "Distance": 1, "R": 1.0 },
+		{ "ID": "Ardburg", "Distance": 2, "R": 1.0 },
+		{ "ID": "Kliefast", "Distance": 3, "R": 1.0 },
+		{ "ID": "Jille", "Distance": 4, "R": 1.0 },
+		{ "ID": "Klouver", "Distance": 5, "R": 1.0 },
+		{ "ID": "Ilabert", "Distance": 6, "R": 1.0 },
+		{ "ID": "Uqipool", "Distance": 6, "R": 1.0 },
+		{ "ID": "Croville", "Distance": 7, "R": 1.0 },
+		{ "ID": "Glidledo", "Distance": 7, "R": 1.0 },
+		{ "ID": "Ayherton", "Distance": 8, "R": 1.0 },
+		{ "ID": "Lok", "Distance": 8, "R": 1.0 },
+		{ "ID": "Lomore", "Distance": 10, "R": 1.0 }
+	]
+}

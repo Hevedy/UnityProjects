@@ -1,0 +1,674 @@
+[
+	{
+		"ID": "idToilet",
+		"Text": "Toilet",
+		"Description": 
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idTub",
+		"Name": "Tub",
+		"Description": 
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idShower",
+		"Name": "Shower",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idBed",
+		"Name": "Bed",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idTable",
+		"Name": "Table",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idBox",
+		"Name": "Box",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idCabinet",
+		"Name": "Cabinet",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idStove",
+		"Name": "Stove",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idCounter",
+		"Name": "Counter",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idRefrigerator",
+		"Name": "Refrigerator",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idSink",
+		"Name": "Sink",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idWindow",
+		"Name": "Window",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idDoor",
+		"Name": "Door",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idWindowCovering",
+		"Name": "Window Covering",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idTrashCan",
+		"Name": "Trash Can",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idIndoorPlant",
+		"Name": "Indoor Plant",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idAlarm",
+		"Name": "Alarm",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idBarstool",
+		"Name": "Barstool",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idLight",
+		"Name": "Light",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idDresser",
+		"Name": "Dresser",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idMirror",
+		"Name": "Mirror",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idPainting",
+		"Name": "Painting",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idClock",
+		"Name": "Clock",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idChair",
+		"Name": "Chair",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idSofa",
+		"Name": "Sofa",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idFireplace",
+		"Name": "Fireplace",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idTelevision",
+		"Name": "Television",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idMonitor",
+		"Name": "Monitor",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idSpeakers",
+		"Name": "Speakers",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idCamera",
+		"Name": "Camera",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idComputer",
+		"Name": "Computer",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	},
+	{
+		"ID": "idDesk",
+		"Name": "Desk",
+		"Description":  
+		[
+			"",
+			""
+		],
+		"IconMenu": "",
+		"IconWorld": "",
+		"InvStackMax": 100,
+		"InvWeight": 0.1,
+		"MarketValue": 300,
+		"MarketValueMod": 0,
+		"UsesAmount": 1,
+		"UsesAmountMod": 0,
+		"UseTime": 1.0,
+		"UseTimeMod": 0.0,
+		"LogicType": "",
+		"LogicClass": ""
+	}
+]

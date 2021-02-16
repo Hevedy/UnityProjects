@@ -1,0 +1,201 @@
+{
+	"SkinColors": 
+	[
+		{ "ID": "Ivory", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Porcelain", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "PaleIvory", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "WarmIvory", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Sand", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "RoseBeige", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Limestone", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Beige", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Sienna", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Honey", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Band", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Almond", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Chestnut", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Bronze", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Umber", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Golden", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Espresso", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Chocolate", "Color": [0,0,0], "R": 1.0 }
+	],
+	"HairColors": 
+	[
+		{ "ID": "Brown", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Blond", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Aubum", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Henna", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Black", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Gray", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "White", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Green", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Blue", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Red", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Pink", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Rainbow", "Color": [0,0,0], "R": 1.0 }
+	],
+	"EyeColors": 
+	[
+		{ "ID": "Blue", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Brown", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Green", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Hazel", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Red", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Gray", "Color": [0,0,0], "R": 1.0 }
+	],
+	"LipsColors": 
+	[
+		{ "ID": "Natural", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Beige", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Red", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "RedDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Pink", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "PinkDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Orange", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "OrangeDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Green", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "GreenDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Blue", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "BlueDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Brown", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "BrownDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Purple", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "PurpleDark", "Color": [0,0,0], "R": 1.0 }
+	],
+	"NailColors": 
+	[
+		{ "ID": "Natural", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Beige", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Red", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "RedDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Pink", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "PinkDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Orange", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "OrangeDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Green", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "GreenDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Blue", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "BlueDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Brown", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "BrownDark", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "Purple", "Color": [0,0,0], "R": 1.0 },
+		{ "ID": "PurpleDark", "Color": [0,0,0], "R": 1.0 }
+	],
+	"HairStyle":
+	[
+		{ "ID": "Bald", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Short", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Average", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Long", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Extra", "Attractive": 1.0, "R": 1.0 }
+		{ "ID": "Afro", "Attractive": 1.0, "R": 1.0 }
+		{ "ID": "PonyTail", "Attractive": 1.0, "R": 1.0 }
+		{ "ID": "Vertical", "Attractive": 1.0, "R": 1.0 }
+		{ "ID": "Odango", "Attractive": 1.0, "R": 1.0 }
+		{ "ID": "Pigtails", "Attractive": 1.0, "R": 1.0 }
+	],
+	"BeardStyle":
+	[
+		{ "ID": "No", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Moustache", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Knob", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Short", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Average", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Long", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Extra", "Attractive": 1.0, "R": 1.0 }
+	],
+	
+	"EyesShape":
+	[
+		{ "ID": "No", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Moustache", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Knob", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Short", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Average", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Long", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Extra", "Attractive": 1.0, "R": 1.0 }
+	],
+	"LipsShape":
+	[
+		{ "ID": "No", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Moustache", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Knob", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Short", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Average", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Long", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Extra", "Attractive": 1.0, "R": 1.0 }
+	],
+	"BodyShapes": 
+	[
+		{ "ID": "Rectangle", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Triangle", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "TriangleInverted", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Rounded", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Diamond", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Hourglass", "Attractive": 1.0, "R": 1.0 }
+	],
+	"BodyWeight":
+	[
+		{ "ID": "Underweight", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Normal", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Overweight", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Obese", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "ExtremlyObese", "Attractive": 1.0, "R": 1.0 }
+	],
+	"BodyHeight":
+	[
+		{ "ID": "ExtraShort", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Short", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Average", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "Tall", "Attractive": 1.0, "R": 1.0 },
+		{ "ID": "ExtraTall", "Attractive": 1.0, "R": 1.0 }
+	],
+	"AgeCategories":
+	[
+		{ "ID": "YoungAdult", "Range": [18,35], "R": 1.0 },
+		{ "ID": "MiddleAdult", "Range": [36,55], "R": 1.0 },
+		{ "ID": "OldAdult", "Range": [55,120], "R": 1.0 }
+	],
+	"SexualGenders":
+	[
+		{ "ID": "Female", "R": 0.25 },
+		{ "ID": "Male", "R": 1.0 },
+		{ "ID": "Intersex", "R": 1.0 }
+	],
+	"BodyStatus":
+	[
+		{ "ID": "None", "R": 1.0 },
+		{ "ID": "Colorblindes", "R": 1.0 },
+		{ "ID": "Blind", "R": 1.0 },
+		{ "ID": "Deaf", "R": 1.0 },
+		{ "ID": "OneEyed", "R": 1.0 },
+		{ "ID": "OneArm", "R": 1.0 },
+		{ "ID": "OneLeg", "R": 1.0 },
+		{ "ID": "NoArms", "R": 1.0 },
+		{ "ID": "NoLegs", "R": 1.0 },
+		{ "ID": "Tetraplegia", "R": 1.0 },
+		{ "ID": "Urolithiasis", "R": 1.0 },
+		{ "ID": "Migraine", "R": 1.0 }
+	],
+	"Diseases":
+	[
+		{ "ID": "None", "R": 1.0 },
+		{ "ID": "Ischemic heart", "R": 1.0 },
+		{ "ID": "Stroke", "R": 1.0 },
+		{ "ID": "Bronchus", "R": 1.0 },
+		{ "ID": "Blind", "R": 1.0 },
+		{ "ID": "Diabetes", "R": 1.0 },
+		{ "ID": "Alzheimer", "R": 1.0 },
+		{ "ID": "Dehydration", "R": 1.0 },
+		{ "ID": "Tuberculosis", "R": 1.0 },
+		{ "ID": "Cirrhosis", "R": 1.0 },
+		{ "ID": "Cancer", "R": 1.0 },
+		{ "ID": "HIV", "R": 1.0 },
+		{ "ID": "HPV", "R": 1.0 },
+		{ "ID": "Chlamydia", "R": 1.0 },
+		{ "ID": "Gonorrhea", "R": 1.0 },
+		{ "ID": "Syphilis", "R": 1.0 }
+	]
+	
+}

@@ -1,0 +1,237 @@
+{
+	"Colors": 
+	[
+		{ "ID": "Blue", "R": 1.0 },
+		{ "ID": "Red", "R": 1.0 },
+		{ "ID": "Purple", "R": 1.0 },
+		{ "ID": "Yellow", "R": 1.0 },
+		{ "ID": "Pink", "R": 1.0 },
+		{ "ID": "Green", "R": 1.0 },
+		{ "ID": "Orange", "R": 1.0 },
+		{ "ID": "Lime", "R": 1.0 },
+		{ "ID": "Aqua", "R": 1.0 },
+		{ "ID": "Navy", "R": 1.0 },
+		{ "ID": "Coral", "R": 1.0 },
+		{ "ID": "Teal", "R": 1.0 },
+		{ "ID": "Mustard", "R": 1.0 },
+		{ "ID": "BlueViolet", "R": 1.0 },
+		{ "ID": "Black", "R": 1.0 },
+		{ "ID": "White", "R": 1.0 },
+		{ "ID": "Grey", "R": 1.0 },
+		{ "ID": "Brown", "R": 1.0 },
+		{ "ID": "DarkGreen", "R": 1.0 },
+		{ "ID": "BlueGray", "R": 1.0 },
+		{ "ID": "Indigo", "R": 1.0 },
+		{ "ID": "PeaGreen", "R": 1.0 },
+		{ "ID": "Amber", "R": 1.0 },
+		{ "ID": "Peach", "R": 1.0 },
+		{ "ID": "Maroon", "R": 1.0 }
+	],
+	"Sign": 
+	[
+		{ "ID": "Aquarius", "R": 1.0 },
+		{ "ID": "Pisces", "R": 1.0 },
+		{ "ID": "Aries", "R": 1.0 },
+		{ "ID": "Taurus", "R": 1.0 },
+		{ "ID": "Gemini", "R": 1.0 },
+		{ "ID": "Cancer", "R": 1.0 },
+		{ "ID": "Leo", "R": 1.0 },
+		{ "ID": "Virgo", "R": 1.0 },
+		{ "ID": "Libra", "R": 1.0 },
+		{ "ID": "Scorpio", "R": 1.0 },
+		{ "ID": "Sagittarius", "R": 1.0 },
+		{ "ID": "Capricorn", "R": 1.0 }
+	],
+	"ClothStyle":
+	[
+		{ "ID": "Classic", "R": 1.0 },
+		{ "ID": "Glam", "R": 1.0 },
+		{ "ID": "Boho", "R": 1.0 },
+		{ "ID": "Casual", "R": 1.0 },
+		{ "ID": "Edgy", "R": 1.0 },
+		{ "ID": "Preppy", "R": 1.0 },
+		{ "ID": "Minimalist", "R": 1.0 },
+		{ "ID": "Romantic", "R": 1.0 }
+	],
+	"SexualConnectionType": 
+	[
+		{ "ID": "Friends", "R": 1.0 },
+		{ "ID": "Hookups", "R": 1.0 },
+		{ "ID": "Short-term", "R": 1.0 },
+		{ "ID": "Long-term", "R": 1.0 }
+	],
+	"Status":
+	[
+		{ "ID": "Single", "R": 0.25 },
+		{ "ID": "SeeingSomeone", "R": 1.0 },
+		{ "ID": "Married", "R": 1.0 }
+		
+	],
+	"Speaks": 
+	[
+		{ "ID": "English", "R": 1.0 },
+		{ "ID": "Spanish", "R": 1.0 },
+		{ "ID": "French", "R": 1.0 },
+		{ "ID": "Alien", "R": 1.0 }
+	],
+	"Education": 
+	[
+		{ "ID": "WorldUniversity", "R": 1.0 },
+		{ "ID": "HighSchool", "R": 1.0 },
+		{ "ID": "College", "R": 1.0 },
+		{ "ID": "University", "R": 1.0 },
+		{ "ID": "Post-grad", "R": 1.0 }
+	],
+	"Pets": 
+	[
+		{ "ID": "None", "R": 1.0 },
+		{ "ID": "Dog", "R": 1.0 },
+		{ "ID": "Cat", "R": 1.0 },
+		{ "ID": "Cat and Dog", "R": 1.0 },
+		{ "ID": "Bird", "R": 1.0 },
+		{ "ID": "Tortoise", "R": 1.0 },
+		{ "ID": "All of Them", "R": 1.0 }
+	],
+	"Diet": 
+	[
+		{ "ID": "Omnivore", "R": 1.0 },
+		{ "ID": "Vegetarian", "R": 1.0 },
+		{ "ID": "Vegan", "R": 1.0 },
+		{ "ID": "Kosher", "R": 1.0 },
+		{ "ID": "Halal", "R": 1.0 },
+		{ "ID": "Cat", "R": 1.0 }
+	],
+	"Drinking": 
+	[
+		{ "ID": "Never", "R": 1.0 },
+		{ "ID": "Sometimes", "R": 1.0 },
+		{ "ID": "Often", "R": 1.0 }
+	],
+	"Smoking": 
+	[
+		{ "ID": "Never", "R": 1.0 },
+		{ "ID": "Sometimes", "R": 1.0 },
+		{ "ID": "Often", "R": 1.0 }
+	],
+	"Marijuana": 
+	[
+		{ "ID": "Never", "R": 1.0 },
+		{ "ID": "Sometimes", "R": 1.0 },
+		{ "ID": "Often", "R": 1.0 }
+	],
+	"Drugs": 
+	[
+		{ "ID": "Never", "R": 1.0 },
+		{ "ID": "Sometimes", "R": 1.0 },
+		{ "ID": "Often", "R": 1.0 }
+	],
+	"Politics": 
+	[
+		{ "ID": "Liberal", "R": 1.0 },
+		{ "ID": "Moderate", "R": 1.0 },
+		{ "ID": "Conservative", "R": 1.0 },
+		{ "ID": "Other", "R": 1.0 }
+	],
+	"Children": 
+	[
+		{ "ID": "Has Kids Doesnt Want More", "R": 1.0 },
+		{ "ID": "Has Kids Might Want More", "R": 1.0 },
+		{ "ID": "Has Kids Wants More", "R": 1.0 },
+		{ "ID": "Doesnt Have Kids And Doesnt Want", "R": 1.0 },
+		{ "ID": "Doesnt Have Kids But Might Want", "R": 1.0 },
+		{ "ID": "Doesnt Have Kids But Wants", "R": 1.0 }
+	],
+	"Home": 
+	[
+		{ "ID": "None", "R": 1.0 },
+		{ "ID": "WithParents", "R": 1.0 },
+		{ "ID": "WithOther", "R": 1.0 },
+		{ "ID": "Shared", "R": 1.0 },
+		{ "ID": "Alone", "R": 1.0 }
+	],
+	"Vehicle": 
+	[
+		{ "ID": "None", "R": 1.0 },
+		{ "ID": "Yes", "R": 1.0 },
+		{ "ID": "Bike", "R": 1.0 },
+		{ "ID": "Scooter", "R": 1.0 },
+		{ "ID": "Chopper", "R": 1.0 },
+		{ "ID": "Classic Motorbike", "R": 1.0 },
+		{ "ID": "Sports Motorbike", "R": 1.0 },
+		{ "ID": "Off-Road Motorbike", "R": 1.0 },
+		{ "ID": "Micro", "R": 1.0 },
+		{ "ID": "Sedan", "R": 1.0 },
+		{ "ID": "Coupe", "R": 1.0 },
+		{ "ID": "CUV", "R": 1.0 },
+		{ "ID": "SUV", "R": 1.0 },
+		{ "ID": "Pickup", "R": 1.0 },
+		{ "ID": "Van", "R": 1.0 },
+		{ "ID": "Campervan", "R": 1.0 },
+		{ "ID": "Truck", "R": 1.0 }
+	],
+	"Professions": 
+	[
+		{ "ID": "Accountant", "R": 1.0 },
+		{ "ID": "Actor", "R": 1.0 },
+		{ "ID": "Architect", "R": 1.0 },
+		{ "ID": "Astronomer", "R": 1.0 },
+		{ "ID": "Author", "R": 1.0 },
+		{ "ID": "Baker", "R": 1.0 },
+		{ "ID": "Bricklayer", "R": 1.0 },
+		{ "ID": "BusDriver", "R": 1.0 },
+		{ "ID": "Butcher", "R": 1.0 },
+		{ "ID": "Carpenter", "R": 1.0 },
+		{ "ID": "Chef", "R": 1.0 },
+		{ "ID": "Cleaner", "R": 1.0 },
+		{ "ID": "Dentist", "R": 1.0 },
+		{ "ID": "Designer", "R": 1.0 },
+		{ "ID": "Doctor", "R": 1.0 },
+		{ "ID": "Dustman", "R": 1.0 },
+		{ "ID": "Electrician", "R": 1.0 },
+		{ "ID": "Engineer", "R": 1.0 },
+		{ "ID": "FactoryWorker", "R": 1.0 },
+		{ "ID": "Farmer", "R": 1.0 },
+		{ "ID": "Fireman", "R": 1.0 },
+		{ "ID": "Fisherman", "R": 1.0 },
+		{ "ID": "Florist", "R": 1.0 },
+		{ "ID": "GameDeveloper", "R": 1.0 },
+		{ "ID": "Gardener", "R": 1.0 },
+		{ "ID": "Hairdresser", "R": 1.0 },
+		{ "ID": "Journalist", "R": 1.0 },
+		{ "ID": "Judge", "R": 1.0 },
+		{ "ID": "Lawyer", "R": 1.0 },
+		{ "ID": "Lecturer", "R": 1.0 },
+		{ "ID": "Librarian", "R": 1.0 },
+		{ "ID": "Lifeguard", "R": 1.0 },
+		{ "ID": "Mechanic", "R": 1.0 },
+		{ "ID": "Model", "R": 1.0 },
+		{ "ID": "Newsreader", "R": 1.0 },
+		{ "ID": "Nurse", "R": 1.0 },
+		{ "ID": "Optician", "R": 1.0 },
+		{ "ID": "Painter", "R": 1.0 },
+		{ "ID": "Pharmacist", "R": 1.0 },
+		{ "ID": "Photographer", "R": 1.0 },
+		{ "ID": "Pilot", "R": 1.0 },
+		{ "ID": "Plumber", "R": 1.0 },
+		{ "ID": "Politician", "R": 1.0 },
+		{ "ID": "Policeman", "R": 1.0 },
+		{ "ID": "Postman", "R": 1.0 },
+		{ "ID": "RealEstateAgent", "R": 1.0 },
+		{ "ID": "Receptionist", "R": 1.0 },
+		{ "ID": "Retired", "R": 1.0 },
+		{ "ID": "Scientist", "R": 1.0 },
+		{ "ID": "Secretary", "R": 1.0 },
+		{ "ID": "ShopAssistant", "R": 1.0 },
+		{ "ID": "Soldier", "R": 1.0 },
+		{ "ID": "Student", "R": 1.0 },
+		{ "ID": "Tailor", "R": 1.0 },
+		{ "ID": "TaxiDriver", "R": 1.0 },
+		{ "ID": "Teacher", "R": 1.0 },
+		{ "ID": "Translator", "R": 1.0 },
+		{ "ID": "TrafficWarden", "R": 1.0 },
+		{ "ID": "TravelAgent", "R": 1.0 },
+		{ "ID": "VeterinaryDoctor", "R": 1.0 },
+		{ "ID": "Waiter", "R": 1.0 },
+		{ "ID": "WindowCleaner", "R": 1.0 }
+	]
+}
