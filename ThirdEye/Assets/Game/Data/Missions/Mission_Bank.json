@@ -1,0 +1,75 @@
+{
+	"ID": "",
+	"Name": "",
+	"Description": "",
+	"Tasks": [
+		{
+			"ID":  "",
+			"Name": "",
+			"Description": "",
+			"Money": 10,
+			"Exp": 10
+		}
+	],
+	"Blueprints":  [
+		{
+			"ID":  "",
+			"Name": "",
+			"Description": "",
+			"Image": ""
+		}
+	]
+	"Size": 9,
+	"Quality": 5,
+	"TimeOfDay": 4,
+	"Rooms": [
+		{
+			"ID": "",
+			"Name": "",
+			"Type": "",
+			"Class": "",
+			"SpawnPoint": true,
+			"Outdoor": false,
+			"Lights": true,
+			"LightsOn": false,
+			"Visiblility": 5,
+			"Size": 5,
+			"Props": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			],
+			"Items": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			],
+			"Characters": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			]
+		},
+		{
+			"ID": "",
+			"Name": "",
+			"Type": "",
+			"Class": "",
+			"Props": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			],
+			"Items": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			],
+			"Characters": [
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] },
+				{ "ID": "", "Name": "", "Link": [ "" ] }
+			]
+		}
+	]
+}

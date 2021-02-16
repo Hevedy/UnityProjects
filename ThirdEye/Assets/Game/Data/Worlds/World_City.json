@@ -1,0 +1,11 @@
+{
+	"ID":  "",
+	"Name": "",
+	"Description": "",
+	"Size": 9,
+	"Quality": 5,
+	"Missions": [
+		"Bank",
+		"House"
+	]
+}
